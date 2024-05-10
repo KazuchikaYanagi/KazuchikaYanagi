@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @KazuchikaYanagi
-- 👀 I’m interested in table tennis and snow boarding
-- 🌱 I’m currently learning JavaScript applications
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I am Kazu😀
 
-<!---
-KazuchikaYanagi/KazuchikaYanagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+![alt text](../me_in_the_beach3.jpg)
+
+I have been studying at WAD course to be font-end developer in Vancouver.
+
+## things I like
+
+- table tennis🏓
+- listening to J-pop🎧
+- driving🚘
